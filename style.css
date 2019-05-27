@@ -7,3 +7,41 @@
 body {
 font-family: sans-serif;
 }
+
+.wrapper {
+    width: 100%;
+    max-width: 900px;
+    margin: 0 auto;
+}
+
+header {
+    padding: 10px;
+}
+
+h1 {
+text-align: center;
+margin: 10px;
+}
+
+main {
+    text-align: center;
+    margin: 10px;
+}
+
+.btn {
+    display: block;
+    margin: 0 auto;
+}
+
+.person__image {
+    width: 100px;
+    height: 100px;
+    margin: 10px;
+    background-color: #777;
+    border-radius: 50%;
+}
+
+footer {
+    padding: 10px;
+    text-align: center;
+}
