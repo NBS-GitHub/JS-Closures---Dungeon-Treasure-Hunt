@@ -1,5 +1,3 @@
-const searchBtn = document.querySelector('.btn--search');
+getData();
 
-// getData();
-
-// searchBtn.addEventListener('click', search);
+proceed();
